@@ -1,7 +1,7 @@
 ## Hi I'm Jessicca Angelov,
 
-[![Gmail Badge](https://img.shields.io/badge/-iamjessicca@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:iamjessicca@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/-jangelov-0072b1?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jangelov/)
+[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:iamjessicca@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jangelov/)
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-4b6cb7?style=flat&logo=Internet-Explorer&logoColor=white)](https://pancakes4one.github.io/my-portfolio/)
 <p align='left'>
 
