@@ -1,4 +1,4 @@
-## Hi I'm Jessicca Angelov,
+## Hi, I'm Jessicca Angelov
 
 [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:iamjessicca@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jangelov/)
