@@ -1,6 +1,9 @@
-## Hi 👋, This is Jessicca Angelov
-[![Gmail Badge](https://img.shields.io/badge/-iamjessicca@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:iamjessicca@gmail.com)](mailto:iamjessicca@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-www.linkedin.com/in/jangelov-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/www.linkedin.com/in/jangelov/)](https://www.linkedin.com/in/www.linkedin.com/in/jangelov/) <p align='left'>
+## Hi I'm Jessicca Angelov,
+
+[![Gmail Badge](https://img.shields.io/badge/-iamjessicca@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:iamjessicca@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/-jangelov-0072b1?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jangelov/)
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-4b6cb7?style=flat&logo=Internet-Explorer&logoColor=white)](https://pancakes4one.github.io/my-portfolio/)
+<p align='left'>
 
 I started out in community health and design, where I learned how powerful communication, empathy, and data can be when used together. That curiosity led me to study Data Science and AI where I’ve been building hands-on projects in Python, SQL, and machine learning.
 
