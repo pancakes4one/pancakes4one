@@ -1,17 +1,20 @@
-## Hi, I'm Jessicca Angelov
+## 👋 About Me
 
-[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:iamjessicca@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jangelov/)
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-4b6cb7?style=flat&logo=Internet-Explorer&logoColor=white)](https://pancakes4one.github.io/my-portfolio/)
-<p align='left'>
+I work at the intersection of applied analytics, research support, and human-centered systems. With a background in community health and UX design, I focus on structuring complex information into clear data workflows, reproducible analysis, and decision-ready insight.
 
-I started out in community health and design, where I learned how powerful communication, empathy, and data can be when used together. That curiosity led me to study Data Science and AI where I’ve been building hands-on projects in Python, SQL, and machine learning.
+My projects use Python and SQL to explore program impact, operational patterns, and knowledge organization — especially in healthcare, education, and mission-driven technology spaces.
 
-- I’m endlessly curious — I love learning languages (currently brushing up on Spanish, Arabic, and Bulgarian).
+I’m particularly interested in work that strengthens research infrastructure, improves how teams manage and understand information, and connects analytics with real-world outcomes.
 
-- I’m passionate about travel, culture, and using tech for good.
+---
 
-- I’m open collaborative data projects, especially ones that blend analytics, design, and social good.
+## 🧰 Primary Tools & Technologies
 
-Primary tech skills:
-Python · pandas · NumPy · scikit-learn · SQL · matplotlib · Seaborn · Excel</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/matplotlib-11557c?style=flat)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
