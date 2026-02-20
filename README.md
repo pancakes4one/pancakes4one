@@ -1,4 +1,4 @@
-## 👋 About Me
+## About Me
 
 I work at the intersection of applied analytics, research support, and human-centered systems. With a background in community health and UX design, I focus on structuring complex information into clear data workflows, reproducible analysis, and decision-ready insight.
 
@@ -8,7 +8,7 @@ I’m particularly interested in work that strengthens research infrastructure, 
 
 ---
 
-## 🧰 Primary Tools & Technologies
+## Primary Tools & Technologies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
