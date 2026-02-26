@@ -18,3 +18,6 @@ I’m particularly interested in work that strengthens research infrastructure, 
 ![Matplotlib](https://img.shields.io/badge/matplotlib-11557c?style=flat)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+---
+✨ I’m currently rebuilding my portfolio to better reflect my work. Check back soon!
