@@ -1,10 +1,12 @@
 ## About Me
 
-I work at the intersection of applied analytics, research support, and human-centered systems. With a background in community health and UX design, I focus on structuring complex information into clear data workflows, reproducible analysis, and decision-ready insight.
+I'm a data analyst building toward work that actually matters — currently focused on applied analytics, machine learning, and data storytelling using Python, SQL, and scikit-learn.
 
-My projects use Python and SQL to explore program impact, operational patterns, and knowledge organization — especially in healthcare, education, and mission-driven technology spaces.
+My background is a little unconventional: I've worked in community health, UX design, and field operations, which shapes how I think about data — less about the numbers in isolation, more about what they mean for real people and decisions.
 
-I’m particularly interested in work that strengthens research infrastructure, improves how teams manage and understand information, and connects analytics with real-world outcomes.
+Right now I'm actively building and refining projects across predictive modeling, time series forecasting, and program evaluation. Every repo here is part of that ongoing process — some polished, some still in progress.
+
+If you're here from a job application or just curious about my work — welcome, and feel free to reach out.
 
 ---
 
@@ -20,4 +22,3 @@ I’m particularly interested in work that strengthens research infrastructure, 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ---
-✨ I’m currently rebuilding my portfolio to better reflect my work. Check back soon!
